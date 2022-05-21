@@ -1,7 +1,10 @@
 # android_replay_test
 android项目。
 
+详细：[【android】从零开始学习安卓回放程序制作需要多少天？](https://blog.csdn.net/LittleSeedling/article/details/124769084)
+
 需求：
+
 实现【测试程序】记录【目标程序】的一系列操作，并能够回放这些操作。 
 
 ---
